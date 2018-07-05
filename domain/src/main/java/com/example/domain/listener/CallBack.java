@@ -1,4 +1,4 @@
-package com.example.lei.rxjavaretrofit.listener;
+package com.example.domain.listener;
 
 public interface CallBack<T> {
 
